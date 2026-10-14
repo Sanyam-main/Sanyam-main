@@ -76,14 +76,12 @@ I practise Data Structures and Algorithms to improve my problem-solving skills a
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Sanyam_18&theme=Dark" alt="LeetCode Statistics"/>
+  <a href="https://leetcode.com/u/Sanyam_18/">
+    <img src="https://leetcard.jacoblin.cool/Sanyam_18?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Statistics"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Sanyam_18/">Visit My LeetCode Profile →</a>
-</p>
-
----
+[Visit My LeetCode Profile →](https://leetcode.com/u/Sanyam_18/)
 
 ## 📊 GitHub Statistics
 
